@@ -1,4 +1,3 @@
-# Haute-Nautilus
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,13 +56,13 @@
   <div class="container">
     <div class="logo"></div>
     <h1>Coming Soon</h1>
-    <p>Drop your email to be the first to know when we launch!</p>
+    <p>Join our mailing list:</p>
     <div id="custom-substack-embed"></div>
   </div>
   
   <script>
     window.CustomSubstackWidget = {
-      substackUrl: "https://hautenautilus.substack.com/",
+      substackUrl: "hautenautilus.substack.com",
       placeholder: "Enter your email",
       buttonText: "Get Early Access",
       theme: "custom",
@@ -78,4 +77,3 @@
   <script src="https://substackapi.com/widget.js" async></script>
 </body>
 </html>
-
